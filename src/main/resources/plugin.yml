@@ -1,0 +1,12 @@
+name: DeathSwap
+version: 1.0
+main: dev.tomstar.deathswap.DeathSwap
+api-version: 1.13
+
+commands:
+  deathswap:
+    aliases: ["deathswap", "ds"]
+
+permissions:
+  deathswap.admin:
+    default: op
